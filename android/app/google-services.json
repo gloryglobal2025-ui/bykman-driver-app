@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "183358730638",
+    "project_id": "bykman",
+    "storage_bucket": "bykman.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183358730638:android:5fecbdba8b9e719cdc34df",
+        "android_client_info": {
+          "package_name": "com.bykman.glorytech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183358730638-lopc5rn655n233ce1jg5df652upfeu2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW1ZVdezka5bzG2v9D-MU-GcfrylbKP90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183358730638-lopc5rn655n233ce1jg5df652upfeu2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183358730638:android:7e70a093ef596ac4dc34df",
+        "android_client_info": {
+          "package_name": "com.bykmandriver.glorytech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183358730638-lopc5rn655n233ce1jg5df652upfeu2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW1ZVdezka5bzG2v9D-MU-GcfrylbKP90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183358730638-lopc5rn655n233ce1jg5df652upfeu2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

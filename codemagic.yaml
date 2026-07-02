@@ -1,0 +1,21 @@
+workflows:
+  web-build:
+    name: Flutter Web Build
+
+    environment:
+      flutter: stable
+
+    scripts:
+      - name: Get packages
+        script: flutter pub get
+
+      - name: Build web
+        script: flutter build web --release
+
+    artifacts:
+      - build/web/**
+
+    publishing:
+      email:
+        recipients:
+          - gloryglobal2025@gmail.com
